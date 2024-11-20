@@ -1,1 +1,3 @@
 # DETECT_TRACK_AND_COUNT_USING_YOLOv8
+
+Use python 3.8.20
